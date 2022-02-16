@@ -1,0 +1,54 @@
+
+.A{
+
+	background:rgba(66, 135, 245,0.5);
+}
+
+
+
+
+.divider{
+	width:100px;
+	height:2px;
+	background:orange;
+	margin:0 auto;
+	position:relative;
+	top:40px;
+	 
+}
+
+#contacter{
+	
+	text-align: center;
+	position:relative;
+	top:50px;
+
+}
+.B{
+
+	
+	background: #fff;
+   padding: 40px;
+   position: relative;
+   top:80px;
+   border-radius: 10px;
+	
+}
+.blue{
+	  color:#1e49d6;	
+	}
+.V{
+	background:orange;
+	width:100%;
+	border:none;
+	font-weight:bold;
+
+}
+.V:hover{
+	background:#4287f5;
+	
+}
+p{
+	color: red;
+	font-style: italic;
+}
